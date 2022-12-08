@@ -102,7 +102,7 @@ export default {
       "pilots": [
         {
           "callsign": "Tengu",
-          "alias": "Reynar Yyvors",
+          "alias": "Reynar Yyors",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///YNN-C-YUGA-POCKET//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Chomolungma",
@@ -122,7 +122,7 @@ export default {
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///YNN-C-YUGA-POCKET//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Sagarmatha",
-          "mech": "Ishmael"
+          "mech": "Queequeg"
         },
       ],
       "header": {
