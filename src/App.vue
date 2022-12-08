@@ -134,7 +134,7 @@ export default {
         "headerTitle": "Los Voladores",
         "headerSubtitle": "Espadas",
         "subheaderTitle": "Asset Recovery",
-        "subheaderSubtitle": "Raptor Squad",
+        "subheaderSubtitle": "Merlin Squad",
       },
       "options":{
         "eventsMarkdownPerMission": true
